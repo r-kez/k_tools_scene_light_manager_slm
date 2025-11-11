@@ -2,6 +2,9 @@
 
 Welcome to the Scene Light Manager (SLM)! This addon is a complete toolkit designed to streamline your entire lighting workflow, from initial organization to final render-pass setup. It provides a "Set-Based" or "Group-Based" workflow that makes managing complex scenes simple and visual.
 
+## [Get on Gumroad](https://kezives.gumroad.com/l/xiqpc)
+#### Consider supporting if the add-on is useful for you :)
+
 Here is a breakdown of the features you have built so far.
 
 ---
