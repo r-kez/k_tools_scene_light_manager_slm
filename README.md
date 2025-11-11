@@ -5,7 +5,7 @@ Welcome to the Scene Light Manager (SLM)! This addon is a complete toolkit desig
 ## [Get on Gumroad](https://kezives.gumroad.com/l/xiqpc)
 #### Consider supporting if the add-on is useful for you :)
 
-Here is a breakdown of the features you have built so far.
+Here is a breakdown of the features we have built so far.
 
 ---
 
